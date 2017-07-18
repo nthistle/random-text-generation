@@ -51,3 +51,6 @@ def gentextbody(length=100):
 	return b
 
 
+if __name__ == "__main__":
+	print("Sample: ")
+	print(gentextbody())
